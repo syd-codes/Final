@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Net;
 
-namespace BirthdayCalculator
+namespace birthdayCalculator// okay 
+
 {
     class Program
     {
@@ -25,9 +26,7 @@ namespace BirthdayCalculator
                     Console.WriteLine("Something when wrong, Please try again. Formatting it YYYY-MM-DD");
                 }
                 Console.WriteLine("Press any key to continue");
-
             }
         }
     }
-
 }
